@@ -24,3 +24,7 @@ for line in in_file:
     total += int(line)
 in_file.close()
 print(total)
+
+"""
+test
+"""
